@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: dpatel-crest/dhrumit-test-repo
 spec:
   type: other
-  lifecycle: unknown
+  lifecycle: dev
   owner: dhrumitpatel
