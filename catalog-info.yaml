@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: dhrumit-test-repo
+  annotations:
+    github.com/project-slug: dpatel-crest/dhrumit-test-repo
+spec:
+  type: other
+  lifecycle: unknown
+  owner: dhrumit
