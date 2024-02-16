@@ -8,3 +8,5 @@ spec:
   type: other
   lifecycle: dev
   owner: dhrumitpatel
+  definition: 
+    $text: https://github.com/dpatel-crest/dhrumit-github-test-repo/blob/main/catalog-another-name.json
